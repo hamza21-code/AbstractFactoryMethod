@@ -16,5 +16,8 @@ public class MovieClient {
 
         System.out.println(bollywoodFactory.getBollywoodMovie("action").genreName());
         System.out.println(bollywoodFactory.getBollywoodMovie("comedy").genreName());
+
+
+
     }
 }
